@@ -1,0 +1,22 @@
+{
+  "name": "ci-cd",
+  "version": "1.0.0",
+  "description": "This will be the project i will work in my homeworks for the ci/cd course.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhivko-kocev/ci-cd.git"
+  },
+  "author": "zhivko-kocev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhivko-kocev/ci-cd/issues"
+  },
+  "homepage": "https://github.com/zhivko-kocev/ci-cd#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
